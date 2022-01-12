@@ -1,0 +1,13 @@
+0 - cuenta testlodge				4	
+1 - introducción			4	
+2 - tipos pruebas				6/8	el esquema de pruebas no queda muy claro de esa forma, se debía realizar una diapositiva por cada tipo de prueba, la info y definiciones de algunas partes no son muy claras
+3 - pruebas ágiles 				6	
+4 - plan pruebas				6	
+5 - doc requisitos				4	
+6 - unitarias				17/18	bastante completa, falta alguna prueba, como por ejemplo ver no sólo de mas de 4 o menos, sino con exactamente 4. En el expected result no deberiais poner condiciones, en la prueba para una entrada debe haber un sólo resultado esperado. Lo aclararé en clase. 
+7 - aceptación				12/15	las de aceptación están correctas pero faltan algunas importantes, como la de asignar equipo, usar 2 equipos que no existan o en añadir jugador añadir un jugador menor de edad. Estas aunque se prueben en conjunto deberian englobar también todas las posibilidades de errores posibles, igual que en las unitarias
+8 - regresión				11/12	la de regresión está bien elegida las más importantes, aunque en probar jugador me parece más importante como caso negativo que no se pueda crear con la edad incorrecta y el nombre que el que estén vacios, o en asignar equipos que no se puedan asignar jugadores no existentes a equipos no existentes.
+9 - implementación formularios				15/15	
+10 - proyecto java				6	
+11 - ejecución pruebas				12/12	muy bien la ejecución y entendido el concepto de poner como fail el test si no cumple lo que se espera. Bien pensado el introducir valores con tildes en la definición buen trabajo.
+				103	
